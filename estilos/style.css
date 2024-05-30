@@ -65,9 +65,9 @@ div#formulario > p{
 
 div.campo{
     background-color: #602c828e;
-    height: 40px;
+    height: 41px;
     border-radius: 8px;
-    margin: 5px 0px #602c828e;;
+    margin: 10px 0px #602c828e;;
     border: 2px solid;
 }
  div.campo > label{
