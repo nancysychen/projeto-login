@@ -16,6 +16,7 @@ TV acime 1200 px
     
     section#login{
         width: 80vw;
+        height: 400px;
         
     }
 
@@ -24,18 +25,18 @@ TV acime 1200 px
         width: 50%;
         height: 100%;
         background-position: center bottom;
-        
-        
-        
-        
-        
+                
     }
 
     section#login > div#formulario{
         float: left;
         width: 50%;
-        padding-top: 20%;
+        padding-top: 10%;    
         
+    }
+
+    div#formulario > p{
+        margin:20px 0px
     }
 }
 
@@ -46,7 +47,9 @@ TV acime 1200 px
     }
 
     section#login{
-        width: 950px
+        width: 950px;
+        height: 500px;
+
     }
 
     section#login > div#imagem{
@@ -59,6 +62,7 @@ TV acime 1200 px
     section#login div#formulario{
         float: left;
         width: 50%;
+        padding-top: 40px;
     }
 
     div#formulario > h1{
@@ -67,6 +71,7 @@ TV acime 1200 px
 
     div#formulario > p{
         font-size: 1.2em;
+        margin:20px 0px
     }
 }
 
