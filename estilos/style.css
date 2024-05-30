@@ -87,8 +87,8 @@ div.campo{
     padding: 4px;
     font-size:1em;
     width: calc(100% - 46px);
-    transform: translateY(-11px);
-    height:100%;   
+    transform: translateY(-12px);
+    height: 100%;   
     
  }
 
