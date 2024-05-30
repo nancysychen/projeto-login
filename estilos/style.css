@@ -78,7 +78,7 @@ div.campo{
     color: white;
     font-size: 2em;
     width: 40px;
-    padding: 5px
+    padding: 3px
  }
 
  div.campo >input{
@@ -87,7 +87,7 @@ div.campo{
     padding: 4px;
     font-size:1em;
     width: calc(100% - 46px);
-    transform: translateY(-12px);
+    transform: translateY(-9px);
     height: 100%;   
     
  }
